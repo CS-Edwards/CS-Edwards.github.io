@@ -16,4 +16,4 @@ Independent RPi computing project
 
 ### Qinfolk Project:
 2019: [view project](https://bit.ly/3wUp01k)<br>
-QTPOC Film, Art and Mental Health project based in Ithaca, NY
+QTPOC film, art and mental health project based in Ithaca, NY
