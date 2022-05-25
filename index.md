@@ -3,10 +3,10 @@ Current and ongoing projects.
 
 ### ICS 111: Teaching Modules
 2022: [view site](https://bit.ly/3Gkfad2) <br>
-[TA lab](https://bit.ly/3lHUT7S) learning modules and activities for Principles of Computer Science students
+[TA lab](https://bit.ly/3lHUT7S) learning modules and activities for Principles of Computer Science students <br>
 (In progress for Fall 2022)
 
-### Ecocentralities and the Ethereum Network:
+### Egocentralities and the Ethereum Network:
 2022: [view paper](https://bit.ly/3PEtHVn)<br>
 Applied network analysis on Ethereum Transaction Newtwork
 
