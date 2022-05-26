@@ -12,7 +12,7 @@ Applied network analysis on Ethereum Transaction Newtwork
 
 ### Raspberry Pi Parallel Computing:
 2021: [view project](https://bit.ly/39SJcsz)<br>
-Independent RPi computing project
+Independent RPi cluster-build and distributed computing project
 
 ### Qinfolk Project:
 2019: [view project](https://bit.ly/3wUp01k)<br>
