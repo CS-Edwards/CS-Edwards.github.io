@@ -2,7 +2,7 @@
 Current and ongoing projects.
 
 ### Collaborative Filtering: Book Recommender System
-2022: [view Jupyter Notebook](https://github.com/CS-Edwards/book_recommender_system/blob/main/collaborative_filtering.ipynb)
+2022: [view Jupyter Notebook](https://github.com/CS-Edwards/book_recommender_system/blob/main/collaborative_filtering.ipynb) <br>
 Implementation of collaborative filtering machine learning technique for book recommendation system
 
 ### Egocentralities and the Ethereum Network:
