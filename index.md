@@ -1,6 +1,10 @@
 ## CS- Edwards Project Page
 Current and ongoing projects.
 
+### Collaborative Filtering: Book Recommender System
+2022: [view Jupyter Notebook](https://github.com/CS-Edwards/book_recommender_system/blob/main/collaborative_filtering.ipynb)
+Implementation of collaborative filtering machine learning technique for book recommendation system
+
 ### Egocentralities and the Ethereum Network:
 2022: [view paper](https://bit.ly/3PEtHVn)<br>
 Applied network analysis on Ethereum Transaction Newtwork
