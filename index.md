@@ -2,7 +2,7 @@
 Current and ongoing projects.
 
 ### Weaviate Vector Database
-2022:[view Jupyter Notebook](https://github.com/CS-Edwards/vse/blob/main/Weaviate_Project.ipynb)<br>
+2022: [view Jupyter Notebook](https://github.com/CS-Edwards/vse/blob/main/Weaviate_Project.ipynb)<br>
 Vector database tutorial and demonstration, using Weaviate and data visualizations using PCA, t-SNE and UMAP.
 
 ### Exceptional Trees of Oahu Visualizaion
