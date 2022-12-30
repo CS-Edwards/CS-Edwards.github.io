@@ -1,9 +1,13 @@
 ## CS- Edwards Project Page
 Current and ongoing projects.
 
+### Weaviate Vector Database
+2022:[view Jupyter Notebook](https://github.com/CS-Edwards/vse/blob/main/Weaviate_Project.ipynb)
+Notes
+
 ### Collaborative Filtering: Book Recommender System
 2022: [view Jupyter Notebook](https://github.com/CS-Edwards/book_recommender_system/blob/main/collaborative_filtering.ipynb) <br>
-Implementation of collaborative filtering machine learning technique for book recommendation system
+Implementation of collaborative filtering using kNN for book recommendation system
 
 ### Egocentralities and the Ethereum Network:
 2022: [view paper](https://bit.ly/3PEtHVn)<br>
