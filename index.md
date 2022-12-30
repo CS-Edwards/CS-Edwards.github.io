@@ -2,12 +2,12 @@
 Current and ongoing projects.
 
 ### Weaviate Vector Database
-2022:[view Jupyter Notebook](https://github.com/CS-Edwards/vse/blob/main/Weaviate_Project.ipynb)
-Notes
+2022:[view Jupyter Notebook](https://github.com/CS-Edwards/vse/blob/main/Weaviate_Project.ipynb)<br>
+Vector database tutorial and demonstration, using Weaviate and data visualizations using PCA, t-SNE and UMAP.
 
-### Collaborative Filtering: Book Recommender System
-2022: [view Jupyter Notebook](https://github.com/CS-Edwards/book_recommender_system/blob/main/collaborative_filtering.ipynb) <br>
-Implementation of collaborative filtering using kNN for book recommendation system
+### Exceptional Trees of Oahu Visualizaion
+2022: [view repo](https://github.com/CS-Edwards/oahu_trees) <br>
+Data visualization of the taxonomic relationships of the trees on Oahu, Hawaii. The tree data is sourced from Exceptional Trees on Oahu API, and Wikipedia. 
 
 ### Egocentralities and the Ethereum Network:
 2022: [view paper](https://bit.ly/3PEtHVn)<br>
