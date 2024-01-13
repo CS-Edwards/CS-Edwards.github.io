@@ -10,7 +10,7 @@ The paper explores the performance of classical machine learning algorithms on s
 2022: [view notebook](https://github.com/CS-Edwards/vse/blob/main/Weaviate_Project.ipynb)<br>
 The project discusses the architecture of Weaviate, an open-source vector database and provides a tutorial implementation of a custom vector search engine using Weaviate Cloud Service (WCS). The project explores the HNSW (Hierarchical Navigable Small World) graph-based index for vector similarity search, dimensionality reduction techniques (PCA, t-SNE, and UMAP) for visualization, and various other features of Weaviate.
 
-### Exceptional Trees of Oahu Visualizaion
+### Exceptional Trees of Oahu Visualization
 2022: [view repo](https://github.com/CS-Edwards/oahu_trees) <br>
 Data visualization of the taxonomic relationships of the trees on Oahu, Hawaii. The tree data is sourced from Exceptional Trees on Oahu API, and Wikipedia. 
 
